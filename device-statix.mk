@@ -33,6 +33,10 @@ PRODUCT_PACKAGES += \
     PresencePolling \
     RcsService
 
+# SimpleDeviceConfig
+PRODUCT_PACKAGES += \
+    SimpleDeviceConfig
+
 # Build necessary packages for system_ext
 
 # Display
